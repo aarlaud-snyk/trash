@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ms": "^2.1.1"
+    "ms": "^2.1.1",
+    "qs": "^6.5.1"
   }
 }
